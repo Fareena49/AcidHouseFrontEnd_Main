@@ -1,0 +1,24 @@
+.header-styles {
+  z-index: 23234 !important;
+  background-color: white !important;
+}
+.avtStyles {
+  background-color: #fff !important;
+  width: 3.5rem !important;
+  height: 3.5rem !important;
+  color: #000 !important;
+  margin-right: 12px !important;
+  border: 1px solid rgb(58, 56, 56);
+}
+.popStyling {
+  margin-top: 15px !important;
+}
+.logOut {
+  cursor: pointer;
+}
+.changePass {
+  cursor: pointer;
+}
+.logOut:hover,.changePass:hover{
+  background-color: rgb(228, 228, 228);
+}

@@ -1,0 +1,18 @@
+.addCategory {
+  float: right;
+}
+.addSubCategory {
+  position: absolute;
+  right: 20px;
+  top: 100px;
+}
+.grItem {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px !important;
+}
+.actionIcon{
+    margin:12px !important;
+    width:32px !important;
+    height:32px !important;
+}

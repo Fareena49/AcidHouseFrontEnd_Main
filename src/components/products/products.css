@@ -1,0 +1,16 @@
+.description {
+  padding-bottom: 12px;
+  border-bottom: 1px solid grey;
+  margin-bottom: 24px;
+}
+.table {
+  margin-top: 24px;
+}
+.closeStepper {
+  float: right;
+  cursor: pointer;
+  margin: 24px;
+}
+.MuiStepLabel-label.MuiStepLabel-active {
+  font-weight: bold !important;
+}
